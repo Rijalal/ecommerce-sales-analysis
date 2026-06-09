@@ -15,6 +15,23 @@ Identifies 5 actionable business insights for operations and marketing teams.
 ## Tools used
 Python · pandas · matplotlib · seaborn · Jupyter Notebook
 
+## Workflow
+FRED API
+    ↓
+Cleaning
+    ↓
+EDA
+    ↓
+Feature Engineering
+    ↓
+PACF Analysis
+    ↓
+Random Forest
+    ↓
+Forecast
+    ↓
+Tableau Dashboard
+
 ## Project structure
 - `notebooks/01_data_loading` — load and merge 8 source tables
 - `notebooks/02_cleaning` — clean data, engineer new features
