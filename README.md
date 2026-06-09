@@ -24,6 +24,9 @@ Python · pandas · matplotlib · seaborn · Jupyter Notebook
 ## Dashboard Preview
 ![Olist Dashboard](charts/dashboard_preview.png)
 
+📊 Tableau Public Dashboard:
+https://public.tableau.com/views/IndonesianCoalNickelMarketAnalysis/Dashboard1
+
 ## How to run
 1. Clone this repo
 2. Download the Olist dataset from Kaggle and place CSVs in data/
